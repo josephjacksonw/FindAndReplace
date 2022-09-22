@@ -1,0 +1,12 @@
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.deps.json
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.dll
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\ref\FindAndReplace.dll
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.pdb
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.csproj.AssemblyReference.cache
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.AssemblyInfoInputs.cache
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.AssemblyInfo.cs
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.csproj.CoreCompileInputs.cache
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.dll
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\ref\FindAndReplace.dll
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.pdb

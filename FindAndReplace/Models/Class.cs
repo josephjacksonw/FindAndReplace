@@ -16,7 +16,7 @@ namespace Class.Models
     public string changer(string phrase, string oldWord, string newWord)
     {
       string output = phrase.Replace(oldWord, newWord);
-      return "output";
+      return output;
     }
   }
 }

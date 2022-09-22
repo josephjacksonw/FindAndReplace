@@ -10,3 +10,7 @@ C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\F
 C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.dll
 C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\ref\FindAndReplace.dll
 C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.pdb
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.exe
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.runtimeconfig.json
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\bin\Debug\net5.0\FindAndReplace.runtimeconfig.dev.json
+C:\Users\kelly\OneDrive\Desktop\FindAndReplace\FindAndReplace\obj\Debug\net5.0\FindAndReplace.genruntimeconfig.cache

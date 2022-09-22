@@ -15,8 +15,39 @@ namespace Class.Models
   {
     public string changer(string phrase, string oldWord, string newWord)
     {
-      string output = phrase.Replace(oldWord, newWord);
-      return output;
+      string[] outputarray = phrase.Split(' ');
+      string outputstring = "";
+      for (int i = 0; i < outputarray.Length; i++)
+      {
+        if (outputarray[i] == oldWord)
+        {
+          outputarray[i] = newWord;
+        }
+        outputstring += outputarray[i];
+        if (i + 1 != outputarray.Length)
+        {
+          outputstring += " ";
+        }
+      }
+      return outputstring;
+    }
+    public string funnyChanger(string phrase, string oldWord, string newWord)
+    {
+      string[] outputarray = phrase.Split(' ');
+      string outputstring = "";
+      for (int i = 0; i < outputarray.Length; i++)
+      {
+        if (outputarray[i].Contains(oldWord))
+        {
+          outputarray[i] = outputarray[i].Replace(oldWord, newWord);
+        }
+        outputstring += outputarray[i];
+        if (i + 1 != outputarray.Length)
+        {
+          outputstring += " ";
+        }
+      }
+      return outputstring;
     }
   }
 }

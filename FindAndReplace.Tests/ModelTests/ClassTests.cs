@@ -12,7 +12,7 @@ namespace Class.Models.Tests
     public void changer_alterUserInput_True()
     {
       Replacer variable = new Replacer();
-      Assert.AreEqual("Hello friend", variable.changer("Hello world", "world", "friend"));
+      Assert.AreEqual("Hello friend apple banana fries", variable.changer("Hello world apple banana fries", "world", "friend"));
     }
   }
 }
